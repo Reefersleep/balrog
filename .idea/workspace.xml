@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d535af3-b968-466c-9fb7-fbc734a1959f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bgZRum2SYoyhelzPEdVuqxayDL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReplState" timestamp="1589099676929">{:repl-history {:ide [], :local [], :remote [{:command &quot;(prn \&quot;hej\&quot;)&quot;, :offset 0, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/watch :browser)&quot;, :offset 22, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/repl :browser)&quot;, :offset 21, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/repl :app)&quot;, :offset 17, :ns &quot;shadow.user&quot;} {:command &quot;(.log js/console \&quot;hej!\&quot;)&quot;, :offset 22, :ns &quot;cljs.user&quot;}]}}</component>
+  <component name="RunManager" selected="Clojure REPL.Connect to shadow-cljs nrepl">
+    <configuration name="Connect to shadow-cljs nrepl" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <module name="project" />
+      <setting name="host" value="localhost" />
+      <setting name="port" value="9000" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Init watch -&gt; shadow-cljs nrepl" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <module name="project" />
+      <setting name="host" value="localhost" />
+      <setting name="port" value="9000" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="true" />
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="init server with watch" run_configuration_type="ShConfigurationType" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init server with watch" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/init-watch.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init server" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/init.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure REPL.Init watch -&gt; shadow-cljs nrepl" />
+      <item itemvalue="Clojure REPL.Connect to shadow-cljs nrepl" />
+      <item itemvalue="Shell Script.init server" />
+      <item itemvalue="Shell Script.init server with watch" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d535af3-b968-466c-9fb7-fbc734a1959f" name="Default Changelist" comment="" />
+      <created>1589055692405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589055692405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589059532881">
+      <screen x="0" y="22" width="1440" height="874" />
+    </state>
+    <state x="176" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.874@0.22.1440.874" timestamp="1589059532881" />
+    <state x="789" y="187" key="#init_server" timestamp="1589056330993">
+      <screen x="0" y="22" width="1440" height="874" />
+    </state>
+    <state x="789" y="187" key="#init_server/0.22.1440.874@0.22.1440.874" timestamp="1589056330993" />
+    <state x="425" y="83" key="SettingsEditor" timestamp="1589056107285">
+      <screen x="0" y="22" width="1440" height="874" />
+    </state>
+    <state x="425" y="83" key="SettingsEditor/0.22.1440.874@0.22.1440.874" timestamp="1589056107285" />
+  </component>
+</project>
