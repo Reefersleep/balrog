@@ -4,4 +4,8 @@ Currently implements the [chess example from the dnd documentation site](https:/
 
 Builds with [shadow-cljs](https://github.com/thheller/shadow-cljs), so makes all of the environment assumptions that it does.
 
-Run with `npx shadow-cljs watch app`, then open a Chrome (no dnd ensure in other browsers) browser at http://localhost:3000
+Run with `npx shadow-cljs watch app`, then open a Chrome browser at http://localhost:3000
+
+Uses html5 dnd, so is not guaranteed to work in other browser than Chrome.
+
+Enjoy!
