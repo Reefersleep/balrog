@@ -1,6 +1,6 @@
 (defproject your/project "0.0.0"
   :dependencies
-  [[thheller/shadow-cljs "X.Y.Z"]]
+  [[thheller/shadow-cljs "2.9.0"]]
 
   :source-paths
   ["src"])

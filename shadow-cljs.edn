@@ -2,7 +2,11 @@
                       :modules    {:main {:init-fn app.main/init}}
                       :output-dir "public/js"
                       :target     :browser}}
- :dependencies [[reagent "0.8.1"]]
+ :dependencies [#_[reagent "0.8.1"]
+                [lilactown/hx "0.5.3"]
+                [cljsjs/react "16.13.0-0"]
+                [cljsjs/react-dom "16.13.0-0"]
+                [cljsjs/react-dom-server "16.13.0-0"]]
  :dev-http     {3000 "public"}
  :nrepl        {:port       9000
                 :middleware []}

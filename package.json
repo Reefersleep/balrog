@@ -12,6 +12,8 @@
   "dependencies": {
     "create-react-class": "^15.6.3",
     "react": "^16.13.1",
+    "react-dnd-cjs": "^9.5.1",
+    "react-dnd-html5-backend": "^10.0.2",
     "react-dom": "^16.13.1",
     "shadow-cljs": "^2.8.110"
   }

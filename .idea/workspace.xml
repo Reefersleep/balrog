@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d535af3-b968-466c-9fb7-fbc734a1959f" name="Default Changelist" comment="" />
+    <list default="true" id="6d535af3-b968-466c-9fb7-fbc734a1959f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.shadow-cljs/builds/app/dev/ana/app/main.cljs.cache.transit.json" beforeDir="false" afterPath="$PROJECT_DIR$/.shadow-cljs/builds/app/dev/ana/app/main.cljs.cache.transit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.shadow-cljs/builds/app/dev/shadow-js/index.json.transit" beforeDir="false" afterPath="$PROJECT_DIR$/.shadow-cljs/builds/app/dev/shadow-js/index.json.transit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.shadow-cljs/classpath.edn" beforeDir="false" afterPath="$PROJECT_DIR$/.shadow-cljs/classpath.edn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/cljs-runtime/app.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/cljs-runtime/app.main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/cljs-runtime/app.main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/cljs-runtime/app.main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/manifest.edn" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/manifest.edn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shadow-cljs.edn" beforeDir="false" afterPath="$PROJECT_DIR$/shadow-cljs.edn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/main.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/main.cljs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bgZRum2SYoyhelzPEdVuqxayDL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,9 +35,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="ReplState" timestamp="1589099676929">{:repl-history {:ide [], :local [], :remote [{:command &quot;(prn \&quot;hej\&quot;)&quot;, :offset 0, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/watch :browser)&quot;, :offset 22, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/repl :browser)&quot;, :offset 21, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/repl :app)&quot;, :offset 17, :ns &quot;shadow.user&quot;} {:command &quot;(.log js/console \&quot;hej!\&quot;)&quot;, :offset 22, :ns &quot;cljs.user&quot;}]}}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1589196975240">{:repl-history {:ide [], :local [], :remote [{:command &quot;(prn \&quot;hej\&quot;)&quot;, :offset 0, :ns &quot;shadow.user&quot;} {:command &quot;(shadow/watch :browser)&quot;, :offset 22, :ns &quot;shadow.user&quot;} {:command &quot;(.log js/console \&quot;hej!\&quot;)&quot;, :offset 22, :ns &quot;cljs.user&quot;} {:command &quot;(shadow/repl :app)&quot;, :offset 17, :ns &quot;shadow.user&quot;} {:command &quot;html5-backend&quot;, :offset 13, :ns &quot;cljs.user&quot;} {:command &quot;html5-backend/createBackend&quot;, :offset 27, :ns &quot;cljs.user&quot;} {:command &quot;html5-backend/HTML5Backend&quot;, :offset 26, :ns &quot;cljs.user&quot;} {:command &quot;dnd/DndProvider&quot;, :offset 15, :ns &quot;cljs.user&quot;} {:command &quot;(shadow/repl :browser)&quot;, :offset 21, :ns &quot;cljs.user&quot;}]}}</component>
   <component name="RunManager" selected="Clojure REPL.Connect to shadow-cljs nrepl">
     <configuration name="Connect to shadow-cljs nrepl" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
       <module name="project" />
@@ -95,10 +122,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589059532881">
+    <state x="176" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589100096211">
       <screen x="0" y="22" width="1440" height="874" />
     </state>
-    <state x="176" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.874@0.22.1440.874" timestamp="1589059532881" />
+    <state x="176" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.874@0.22.1440.874" timestamp="1589100096211" />
     <state x="789" y="187" key="#init_server" timestamp="1589056330993">
       <screen x="0" y="22" width="1440" height="874" />
     </state>
@@ -107,5 +134,9 @@
       <screen x="0" y="22" width="1440" height="874" />
     </state>
     <state x="425" y="83" key="SettingsEditor/0.22.1440.874@0.22.1440.874" timestamp="1589056107285" />
+    <state x="386" y="216" width="667" height="486" key="find.popup" timestamp="1589100062432">
+      <screen x="0" y="22" width="1440" height="874" />
+    </state>
+    <state x="386" y="216" width="667" height="486" key="find.popup/0.22.1440.874@0.22.1440.874" timestamp="1589100062432" />
   </component>
 </project>

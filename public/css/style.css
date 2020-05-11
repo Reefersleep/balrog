@@ -1,0 +1,61 @@
+.gameBoard {
+display: grid;
+  grid-template-columns: 120px 120px 120px 120px;
+  grid-template-rows: 120px 120px 120px 120px;
+  grid-column-gap: 2px;
+  grid-row-gap: 2px;
+}
+
+.field:nth-child(1),
+.field:nth-child(3),
+.field:nth-child(8),
+.field:nth-child(9),
+.field:nth-child(14),
+.field:nth-child(16) {
+  background-color: lightgrey;
+}
+
+.field:nth-child(2),
+.field:nth-child(4),
+.field:nth-child(5),
+.field:nth-child(12),
+.field:nth-child(13),
+.field:nth-child(15) {
+  background-color: grey;
+}
+
+.field:nth-child(6),
+.field:nth-child(11) {
+  background-color: yellow;
+}
+
+.field:nth-child(7),
+.field:nth-child(10) {
+  background-color: red;
+}
+
+.field {
+  position: relative; /* helps center pieces */
+}
+
+.piece {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+
+  /* Center horizontally and vertically */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  margin: -30px 0 0 -30px;
+   /* /Center horizontally and vertically */
+}
+
+.blackPiece {
+  background-color: black;
+}
+
+.whitePiece {
+  background-color: white;
+}

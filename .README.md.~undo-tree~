@@ -1,0 +1,2 @@
+"4e7fd49fdfa4042b8b72fbebeeee28eec7533be2"
+[cl-struct-undo-tree [nil (#1=[nil nil ((#("a" 0 1 (fontified t keymap (keymap (mouse-2 . markdown-follow-link-at-point) (follow-link . mouse-face)) mouse-face markdown-highlight-face font-lock-multiline t help-echo "https://react-dnd.github.io/react-dnd/docs/tutorial" face markdown-link-face)) . 124) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (t 24249 14872 0 0)) nil (24249 15062 838857 0) 0 nil]) nil nil (24249 15062 838866 0) 0 nil] #1# 65 1 nil]
