@@ -9,3 +9,5 @@ Run with `npx shadow-cljs watch app`, then open a Chrome browser at http://local
 Uses html5 dnd, so is not guaranteed to work in other browser than Chrome.
 
 Enjoy!
+
+asdfasdf
